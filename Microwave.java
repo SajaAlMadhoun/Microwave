@@ -1,3 +1,6 @@
+//https://www.youtube.com/watch?v=1dM7zIo1AVg
+//فيديو شرح كتابة الكود
+
 
 public class Microwave {
     private int time ;
